@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "name": "Sword of Strength",
+            "effects": {
+                "attack": 5,
+                "strength": 2
+            }
+        },
+        {
+            "name": "Shield of Defense",
+            "effects": {
+                "armor_class": 2,
+                "constitution": 1
+            }
+        }
+    ]
+}

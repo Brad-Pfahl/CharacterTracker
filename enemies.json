@@ -1,0 +1,42 @@
+{
+    "enemies": [
+        {
+            "name": "Goblin",
+            "base_attributes": {
+                "strength": 8,
+                "dexterity": 14,
+                "constitution": 10,
+                "intelligence": 10,
+                "wisdom": 8,
+                "charisma": 8
+            },
+            "base_stats": {
+                "health": "2d6",
+                "attack": "1d20+4",
+                "damage": "1d6+2",
+                "armor_class": 15,
+                "speed": 30
+            },
+            "challenge_rating": "2"
+        },
+        {
+            "name": "Orc",
+            "base_attributes": {
+                "strength": 16,
+                "dexterity": 12,
+                "constitution": 16,
+                "intelligence": 7,
+                "wisdom": 11,
+                "charisma": 10
+            },
+            "base_stats": {
+                "health": "2d8+6",
+                "attack": "1d12+3",
+                "damage": "2d12+3",
+                "armor_class": 13,
+                "speed": 30
+            },
+            "challenge_rating": "2"
+        }
+    ]
+}
